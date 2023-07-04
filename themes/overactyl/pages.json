@@ -73,7 +73,7 @@
         "faviconlink": "",
         "name":"Dashactyl",
         "home": {
-            "title": "Home - Dashactyl",
+            "title": "Home - Overactyl",
             "buttontext": {
                 "loggedin": {
                     "text": "Dashboard",
@@ -88,34 +88,34 @@
             }
         },
         "dashboard": {
-            "title": "Dashboard - Dashactyl"
+            "title": "Dashboard - Overactyl"
         },
         "servers": {
             "title": {
                 "list": "Servers - Dashactyl",
-                "create": "Create Server - Dashactyl",
-                "modify": "Modify Server - Dashactyl"
+                "create": "Create Server - Overactyl",
+                "modify": "Modify Server - Overactyl"
             }
         },
         "error": {
-            "title": "404 - Dashactyl"
+            "title": "404 - Overactyl"
         },
         "admin": {
             "title": {
-                "default": "Admin - Dashactyl"
+                "default": "Admin - Overactyl"
             }
         },
         "store": {
-            "title": "Store - Dashactyl"
+            "title": "Store - Overactyl"
         },
         "arcio": {
-            "title": "AFK Page - Dashactyl"
+            "title": "AFK Page - Overactyl"
         },
         "maintenance": {
-            "title": "Maintenance - Dashactyl"
+            "title": "Maintenance - Overactyl"
         },
         "redeem": {
-            "title": "Redeem - Dashactyl"
+            "title": "Redeem - Overactyl"
         }
     }
 }

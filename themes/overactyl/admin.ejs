@@ -317,7 +317,7 @@
                                 <div class="card-body">
                                     <center><p id="latestversion"><span style="margin-left: 5%;">Fetching...</span></p></center>
                                     <script>
-                                        fetch("https://dashactyl-development.github.io/Dashactyl-0.4/")
+                                        fetch("https://github.com/OverNodes-net/Overactyl")
                                             .then(res => Promise.resolve(res.json()).then(ver => {
                                                 let currentver = "<%= settings.version.replace(/"/g, `\\\\"`) %>";
                                                 if (ver.version == currentver) {
