@@ -116,7 +116,7 @@ app.use(express.json({
 }));
 
 const listener = app.listen(settings.website.port, function() {
-  console.log(chalk.green("[WEBSITE] The dashboard has successfully loaded on port " + listener.address().port + "."));
+  console.log(chalk.yellow("[Overactyl] The dashboard has successfully loaded on port " + listener.address().port + "."));
 });
 
 let ipratelimit = {};
